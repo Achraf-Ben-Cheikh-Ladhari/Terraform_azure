@@ -1,0 +1,5 @@
+.terraform
+devopsazurekey*
+*.lock.*
+terraform.tfstate*
+
